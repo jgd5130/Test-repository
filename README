@@ -1,0 +1,23 @@
+This is the read me file for the test project.
+
+In this exercise I'll be doing the following:
+
+git init
+git status
+git add file
+git add .
+git commit -m "Message"
+git status
+git log
+move file to project folder
+git add file - to staging area
+edit index.html
+git status
+git add
+git status
+git commit -m
+git status
+git rm file
+git status
+git commit -m
+git log
